@@ -1,0 +1,27 @@
+.lo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 0px ;
+    margin: 0 auto;
+}
+
+.Kati{
+    color: #5F7D1D !important;
+    font-weight: bold;
+    text-align: center;
+}
+.foods{
+    color: #FF8311 !important;
+}
+
+.im{
+    width: 100%;
+    padding: 0px!important;
+    margin: 0px !important;
+}
+
+.im1{
+    width: 500px;
+    height: 400px;
+}
